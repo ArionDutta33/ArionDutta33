@@ -2,7 +2,8 @@
 - 👀 I’m interested in web development,app development,AI/ML and problem solving
 - 🌱 I’m currently learning MERN stack
  - 📫 Reach me out - ariondutta333@outlook.
-
+ - Languages <img src="[{BadgeURLHere}](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+)" />
   
 
 <!---
