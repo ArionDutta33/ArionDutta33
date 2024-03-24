@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArionDutta33
 - 👀 I’m interested in web development,android app development,AI/ML and problem solving
 - 🌱 I’m currently learning MERN stack
- - 📫 Reach me out - ariondutta333@outlook.
+ - 📫 Reach me out - ariondutta333@outlook.com
 
 
 <!---
