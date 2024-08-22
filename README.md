@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AirBnC**
 
-- 🌱 I’m currently learning **ReactJs,NextJs**
+- 🌱 I’m currently learning **Data Strutures & Algorithms**
 
 - 💬 Ask me about **MERN Stack,Flutter**
 
