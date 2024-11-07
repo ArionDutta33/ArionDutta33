@@ -1,5 +1,5 @@
 # 💫 About Me:
-I would like to collaborate on Web dev based Projects<br><br>Currently learning Data Structures and Algorithms<br>Ask me about MERN stack and Flutter<br>
+I would like to collaborate on Web and app  based Projects<br><br>Currently learning Data Structures and Algorithms<br>Ask me about MERN stack and Flutter<br>
 
 
 # 💻 Tech Stack:
