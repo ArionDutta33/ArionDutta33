@@ -1,1 +1,1 @@
-I am trying to be better
+Figuring out
